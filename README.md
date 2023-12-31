@@ -7,26 +7,29 @@ To design a website to perform mathematical calculations in server side.
 
 ### Step 1:
 
-
+clone the repository from GitHub.
 
 ### Step 2:
 
+create Django Admin project.
 
 
 ### Step 3:
 
-
+Create a new App under the Django Admin project.
 
 ### Step 4:
 
+Create python programs for views and urls to perform server side processing.
 
 
 ### Step 5:
+Create a HTML file to implement from based input and output.
 
 
 
 ### Step 6:
-
+ 
 Publish the website in the given URL.
 
 ## PROGRAM :
@@ -133,15 +136,15 @@ urlpatterns = [
 ## OUTPUT:
 ![sreenshot 11](https://github.com/keziahhhf/serversideprocessing/assets/155235704/836c9e1b-7dd1-4d6d-8e1d-772dc1d36823) 
 
-![screenshot 12](https://github.com/keziahhhf/serversideprocessing/assets/155235704/7e39300f-c882-4eb1-96ae-443e7a21d479)
+
 
 
 ### Home Page:
 
 
-
+![screenshot 12](https://github.com/keziahhhf/serversideprocessing/assets/155235704/7e39300f-c882-4eb1-96ae-443e7a21d479)
 
 
 
 ## Result:
-
+ The program for performing server side processing is completed successfully.
